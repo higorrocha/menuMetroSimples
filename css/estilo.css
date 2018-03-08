@@ -18,8 +18,9 @@ body{
 }
 
 .linha{
-	width:auto;
-	padding:5px;
+    width:auto;
+    margin: 0;
+	padding:1px 5px;
 	height:110px;
 	display:table;
 }
@@ -28,7 +29,7 @@ body{
     height: 100px;
     width: 100px;
     float: left;
-    margin: 0 5px 0 0;
+    margin: 0 10px 0 0;
     padding: 2px;
 }
 
