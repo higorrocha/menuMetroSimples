@@ -23,3 +23,15 @@ body{
 	height:110px;
 	display:table;
 }
+
+.bloco {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 0 5px 0 0;
+    padding: 2px;
+}
+
+.blocoGrande {
+    width: 210px;
+}
