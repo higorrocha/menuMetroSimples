@@ -45,3 +45,8 @@ body{
 .blocoGrande img {
     margin: 5px 63px 0 63px;
 }
+
+footer a {
+    color: #ccecfb;
+    text-decoration: none;
+}
