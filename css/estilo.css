@@ -36,3 +36,12 @@ body{
 .blocoGrande {
     width: 210px;
 }
+
+.bloco img {
+    width: 74px;
+    margin: 5px 13px 0 13px;
+}
+
+.blocoGrande img {
+    margin: 5px 63px 0 63px;
+}
